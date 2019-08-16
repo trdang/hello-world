@@ -1,2 +1,3 @@
 # hello-world
-Following GitHub tutorial
+Following GitHub
+I'm a newbie in using github
